@@ -1,0 +1,6 @@
+{
+"appId": "com.triagepulse.ultra",
+"appName": "TriagePulse",
+"webDir": ".",
+"bundledWebRuntime": false
+}
