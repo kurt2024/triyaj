@@ -24,10 +24,9 @@ jobs:
         distribution: 'temurin'
         java-version: '17'
 
-    - name: Bağımlılıkları Yükle ve Capacitor Başlat
+    - name: Bağımlılıkları Yükle ve Android Platformunu Ekle
       run: |
         npm install
-        npx cap init TriagePulse com.triagepulse.ultra --web-dir . --yes
         npx cap add android
 
     - name: Android Projesini Derle (Debug APK)
