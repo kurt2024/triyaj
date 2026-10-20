@@ -1,14 +1,14 @@
 {
-"name": "triagepulse-ultra",
-"version": "1.0.0",
-"description": "Akıllı Acil Triyaj Asistanı",
-"main": "index.js",
-"scripts": {
-"test": "echo "Error: no test specified" && exit 1"
-},
-"dependencies": {
-"@capacitor/android": "^5.0.0",
-"@capacitor/cli": "^5.0.0",
-"@capacitor/core": "^5.0.0"
-}
+  "name": "triagepulse-ultra",
+  "version": "1.0.0",
+  "description": "Akilli Acil Triyaj Asistani",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
 }
